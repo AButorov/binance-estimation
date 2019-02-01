@@ -1,0 +1,5 @@
+prog/test.py
+prog/__pycache__
+/.venv
+/.vscode
+estimation.txt
